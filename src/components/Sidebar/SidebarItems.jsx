@@ -7,11 +7,11 @@ import Search from "./Search";
 const SidebarItems = () => {
     return (
         <>
-            <Home/>
-            <Search/>
-            <Notifications/>
-            <CreatePost/>
-            <ProfileLink/>
+            <Home />
+            <Search />
+            <Notifications />
+            <CreatePost />
+            <ProfileLink />
         </>
     );
 };

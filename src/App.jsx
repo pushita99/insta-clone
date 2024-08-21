@@ -1,7 +1,7 @@
 import {Route, Routes} from "react-router-dom";
 import HomePage from "./pages/HomePage/HomePage.jsx";
 import AuthPage from "./pages/AuthPage/AuthPage.jsx";
-import PageLayout from "./components/Layouts/PageLayout/PageLayout.jsx";
+import PageLayout from "./Layouts/PageLayout/PageLayout.jsx";
 
 function App() {
 
