@@ -4,7 +4,7 @@ import { CommentLogo, NotificationsLogo, UnlikeLogo } from "../../assets/constan
 import usePostComment from "../../hooks/usePostComment";
 import useAuthStore from "../../store/authStore";
 import useLikePost from "../../hooks/useLikePost";
-import { timeAgo } from "../../utils/timeAgo.js";
+import { timeAgo } from "../../utils/timeAgo";
 import CommentsModal from "../Modals/CommentsModal";
 
 const PostFooter = ({ post, isProfilePage, creatorProfile }) => {
